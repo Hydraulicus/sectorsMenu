@@ -1,0 +1,13 @@
+.centralCircle {
+    fill: white;
+}
+.centralCircle:hover {
+    fill: rgba(150, 150, 255, 1)
+}
+
+.segment {
+    fill: rgba(128, 128, 128, 0.5);
+}
+.segment:hover {
+    fill: rgba(150, 150, 255, 1)
+}
